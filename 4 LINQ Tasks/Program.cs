@@ -60,9 +60,35 @@ namespace _4_LINQ_Tasks
             #endregion
 
             #region Exercise 2
+
+            Console.WriteLine("Please enter size of your Contact list");
+            int size1 = Convert.ToInt32(Console.ReadLine());
+            string[] names = new string[size1];
+            for (int i = 0; i < size1; i++)
+            {
+                Console.WriteLine($"Enter Name on Position Number {i + 1}");
+                names[i] = Console.ReadLine().Trim();
+            }
+            // Where() filters the collection
+            // StartsWith() is a string method that checks the first character
+            // ToLower() ensures case-insensitive comparison while keeping ORIGINAL INPUT bro
+            var namesA = names.Where(x => x.ToLower().StartsWith("a")); 
+            if (namesA.Count() == 0)
+            {
+                Console.WriteLine("There were no Names starting with A");
+            }
+            else
+            {
+                Console.WriteLine($"The list of Names starting with A: {string.Join(" ",namesA)}");
+            }
+
+
             #endregion
 
             #region Exercise 3
+
+
+
             #endregion
 
             #region Exercise 4
