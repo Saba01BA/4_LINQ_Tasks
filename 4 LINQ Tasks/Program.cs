@@ -87,7 +87,20 @@ namespace _4_LINQ_Tasks
 
             #region Exercise 3
 
+            Console.WriteLine("Enter Size of your Array");
+            int size2 = Convert.ToInt32(Console.ReadLine());
+            int[] nums1 = new int[size2];
+            for (int i = 0; i < size2; i++)
+            {
+                Console.WriteLine($"Enter a whole Number on Position {i+1}");
+                nums1[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            // OrderByDescending() sorts collection from largest to smallest 
+            // Take(3) returns only the first 3 elements 
+            // lambda x => x means "sort by the value itself"
+            var result = nums1.OrderByDescending(x => x).Take(3);
 
+            Console.WriteLine($"The Largest 3 Numbers are: {string.Join(" ",result)}");
 
             #endregion
 
