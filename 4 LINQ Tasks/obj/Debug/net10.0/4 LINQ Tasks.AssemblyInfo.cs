@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4 LINQ Tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8297be88aadb028479ebb2c83a0fc9e141133de3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6998f3fbf5d7f8abfc7b94ad7b8c5186a81cfc90")]
 [assembly: System.Reflection.AssemblyProductAttribute("4 LINQ Tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4 LINQ Tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Homeworks\\4 LINQ Tasks\\4 LINQ Tasks\\4 LINQ Tasks.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Projects\\4_LINQ_Tasks\\4 LINQ Tasks\\4 LINQ Tasks.csproj",
       "projectName": "4 LINQ Tasks",
-      "projectPath": "C:\\Users\\User\\Desktop\\Homeworks\\4 LINQ Tasks\\4 LINQ Tasks\\4 LINQ Tasks.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Projects\\4_LINQ_Tasks\\4 LINQ Tasks\\4 LINQ Tasks.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Homeworks\\4 LINQ Tasks\\4 LINQ Tasks\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Projects\\4_LINQ_Tasks\\4 LINQ Tasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
