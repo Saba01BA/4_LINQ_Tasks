@@ -105,6 +105,24 @@ namespace _4_LINQ_Tasks
             #endregion
 
             #region Exercise 4
+
+            Console.WriteLine("Enter a size of a list of Words");
+            int size3 = Convert.ToInt32(Console.ReadLine());
+            string?[] listOfWords = new string[size3];
+            for (int i = 0; i < size3; i++)
+            {
+                Console.WriteLine($"Enter Word on Position Number {i+1}");
+                listOfWords[i] = Console.ReadLine();
+            }
+            //GroupBy(x=>x.Length) means that data will be grouped by the Length of the value)
+            var groups = listOfWords.GroupBy(x => x.Length);
+            //item itself in foreach is the group itself
+            foreach (var item in groups)
+            {
+                //Item.Key = the shared Length VALUE of all words in this group
+                Console.WriteLine($"Wordlength:{item.Key}. Words: {string.Join(" ",item)}");
+            }
+
             #endregion
 
         }
