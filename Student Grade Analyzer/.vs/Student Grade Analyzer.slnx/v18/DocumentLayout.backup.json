@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Projects\\Algorithms\\Student Grade Analyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396AE919-AF93-422D-AC7F-196EAB59B2C8}|Student Grade Analyzer\\Student Grade Analyzer.csproj|c:\\users\\user\\desktop\\projects\\algorithms\\student grade analyzer\\student grade analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396AE919-AF93-422D-AC7F-196EAB59B2C8}|Student Grade Analyzer\\Student Grade Analyzer.csproj|solutionrelative:student grade analyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Projects\\Algorithms\\Student Grade Analyzer\\Student Grade Analyzer\\Program.cs",
+              "RelativeDocumentMoniker": "Student Grade Analyzer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Projects\\Algorithms\\Student Grade Analyzer\\Student Grade Analyzer\\Program.cs*",
+              "RelativeToolTip": "Student Grade Analyzer\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T09:27:28.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
